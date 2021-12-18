@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Praktikum</title>
+
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <script src="MyScript.js"></script>
+</head>
+
+<body>
+    <div>
+        <h1><img src="https://lh3.googleusercontent.com/proxy/U15bP6OdknFYcro0DKYpr-bRmGyZ420u897n9uonMM5WiZ8OYtfGEahtlPhczt1jBHu2mSpgJWbDlZOps1UamZUtSdEUQOdACdRAs0LSOzzvLCDhZMXZqg" alt="Logo Perusahaan" width="120" height="100">PT. Once Sejahtera</h1>
+        <table border="5" align="center">
+            <tr>
+                <th>Nama</th>
+                <td><input type="text" id="nama"></td>
+            </tr>
+            <tr>
+                <th>Kategori</th>
+                <td>
+                    <select id="kategori">
+                        <option value="sosial">Sosial</option>
+                        <option value="rumah">Rumah</option>
+                        <option value="apartemen">Apartemen</option>
+                        <option value="industri">Industri</option>
+                        <option value="villa">Villa</option>
+                    </select>
+                </td>
+            </tr>
+            <tr>
+                <th>Jumlah Pemakaian</th>
+                <td>
+                    <input type="number" id="pemakaian">
+                </td>
+            </tr>
+            <tr>
+                <td align="center" colspan="2">
+                    <button class="button" onclick="calculation()"><b>Calculate</b></button>
+                </td>
+            </tr>
+        </table>
+        <br>
+    </div>
+
+    <div>
+        <h2>Rincian Tagihan</h2>
+        <table border="2" align="center">
+            <tr>
+              <th>Jumlah</th>
+              <th>Tarif per KWH</th>
+              <th>Abodemen</th>
+              <th>Sub-Total</th>
+            </tr>
+            <tbody id="body">
+                <tr>
+                    <td>-</td>
+                    <td>-</td>
+                    <td>-</td>
+                    <td>-</td>
+                  </tr>
+            </tbody>
+            <tr>
+                <td colspan="3" >Sub-Total</td>
+                <td id="sub"></td>
+            </tr>
+            <tr>
+                <td colspan="3" >Pajak</td>
+                <td id="pajak"></td>
+            </tr>
+            <tr>
+                <td colspan="3" >Bayar</td>
+                <td id="total"></td>
+            </tr>
+          </table>
+          <br><br><br>
+    </div>
+</body>
+</html>
