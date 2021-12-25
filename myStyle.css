@@ -1,0 +1,29 @@
+body{
+    text-align: center;
+    padding: 75px;            
+}
+.dark {
+    background-color: black;
+    color: white;
+}
+.light{
+    background-color: white;
+    color: black;
+}
+button{
+    margin: 30px;
+    padding: 15px;
+    font-size: large;
+    background-color: black;
+    color: white;
+}
+#para{
+    padding: 25px;
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+select{
+    padding: 10px;
+    margin: 25px;
+    font-size: 15px;
+}
