@@ -1,0 +1,84 @@
+{
+    "menu":[
+        {
+            "jenis"     : "Appetizer",
+            "nama"      : "Roti Bawang",
+            "desc"      : "roti dilapisi butter dan bawang(?)",
+            "harga"     : "Rp 15K",
+            "est"       : "5 min",
+            "gambar"    : "https://asset.kompas.com/crops/KHjx-aLxNwEIh-i-U_nvdgG_-bY=/0x0:0x0/750x500/data/photo/2020/07/11/5f092eb202b4e.jpg"
+        },
+        {
+            "jenis"     : "Appetizer",
+            "nama"      : "Risol",
+            "desc"      : "makanan tradisional(?)",
+            "harga"     : "Rp 10K",
+            "est"       : "7 min",
+            "gambar"    : "https://img.inews.co.id/files/inews_new/2020/08/25/cara_membuat_risol_kampung.jpg"
+        },
+        {
+            "jenis"     : "Main",
+            "nama"      : "Nasi Goreng",
+            "desc"      : "dengan telur, ayam, dan sayuran",
+            "harga"     : "Rp 25K",
+            "est"       : "15 min",
+            "gambar"    : "https://cdn1-production-images-kly.akamaized.net/KxuztQKl3tnUN0Fw5iAwKsnX_u0=/0x148:1920x1230/640x360/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/3093328/original/069244600_1585909700-fried-2509089_1920.jpg"
+        },
+        {
+            "jenis"     : "Main",
+            "nama"      : "Nasi Kuning",
+            "desc"      : "dengan telur, ayam, dan mie",
+            "harga"     : "Rp 30K",
+            "est"       : "15 min",
+            "gambar"    : "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/d04a0dba-b005-49d2-848a-3585f07da1f4_Go-Biz_20210525_114540.jpeg?h=636&w=1082&fit=crop&auto=compress"
+        },
+        {
+            "jenis"     : "Main",
+            "nama"      : "Nasi Lemak",
+            "desc"      : "nasi tradisional Malaysia",
+            "harga"     : "Rp 30K",
+            "est"       : "15 min",
+            "gambar"    : "https://i2.wp.com/resepkoki.id/wp-content/uploads/2017/02/Resep-Nasi-lemak.jpg?fit=1920%2C1920&ssl=1"
+        },
+        {
+            "jenis"     : "Desserts",
+            "nama"      : "Donut",
+            "desc"      : "ya, donut, apalagi",
+            "harga"     : "Rp 10K",
+            "est"       : "2 min",
+            "gambar"    : "https://sugargeekshow.com/wp-content/uploads/2020/10/baked_donut_recipe_featured.jpg"
+        },
+        {
+            "jenis"     : "Desserts",
+            "nama"      : "Chocolate Mousse",
+            "desc"      : "mousse dari coklat",
+            "harga"     : "Rp 15K",
+            "est"       : "5 min",
+            "gambar"    : "https://realfood.tesco.com/media/images/RFO-1400x919-classic-chocolate-mousse-69ef9c9c-5bfb-4750-80e1-31aafbd80821-0-1400x919.jpg"
+        },
+        {
+            "jenis"     : "Drinks",
+            "nama"      : "Aqua",
+            "desc"      : "air mineral",
+            "harga"     : "Rp 3K",
+            "est"       : "1 min",
+            "gambar"    : "https://d21a1fytkm286.cloudfront.net/Products_466837_image_B420_1028184013.jpg"
+        },
+        {
+            "jenis"     : "Drinks",
+            "nama"      : "Teh Manis/Tawar",
+            "desc"      : "ya, teh",
+            "harga"     : "Rp 5K",
+            "est"       : "3 min",
+            "gambar"    : "https://asset-a.grid.id/crop/0x0:0x0/700x465/photo/2019/08/13/3668272775.jpg"
+        },
+        {
+            "jenis"     : "Drinks",
+            "nama"      : "Kopi Hitam",
+            "desc"      : "belum termasuk gula",
+            "harga"     : "Rp 5K",
+            "est"       : "3 min",
+            "gambar"    : "https://upload.wikimedia.org/wikipedia/commons/4/45/A_small_cup_of_coffee.JPG"
+        }
+    ]
+}
