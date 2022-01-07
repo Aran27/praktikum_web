@@ -1,0 +1,31 @@
+table{
+    border: thin solid black;
+    table-layout: auto;
+    margin: auto;
+    margin-top: 50px;
+}
+h1{
+    margin-top: 50px;
+    margin-left: 5%;
+    font-size: 50px;
+}
+button{
+    margin-top: 25px;
+    margin-left: 5%;
+}
+.ex{
+    padding: 10px 20px 10px 20px;
+    font-weight: bold;
+    font-size: 16px;
+}
+.show{
+    margin-top: 25px;
+    font-size: 21px;
+    border: white;
+    color: white;
+    background-color: grey;
+    width: 100%;
+}
+.c{
+    text-align: center;
+}
